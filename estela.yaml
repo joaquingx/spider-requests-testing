@@ -1,0 +1,7 @@
+project:
+  pid: "22a9c69c-c5ee-4ffc-a1cd-2fe50da9898b"
+  python: "3.8"
+  requirements: "requirements.txt"
+  entrypoint: "git+https://github.com/bitmakerla/estela-requests-entrypoint"
+deploy:
+  ignore: ["project_data"]
